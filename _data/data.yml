@@ -17,11 +17,11 @@ sidebar:
     website: karthickrajas.github.io #do not add http://
     linkedin: karthickrajas
     github: karthickrajas
-    gitlab:
+    gitlab: karthickrajas
     bitbucket:
     twitter: '@karthickraja_s'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    stack-overflow: 6016908/karthick-raja # Number/Username, e.g. 123456/alandoe
+    codewars: karthickrajas
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
@@ -39,132 +39,140 @@ sidebar:
         link:
 
       - item: Blogging
-        link:
+        link: karthickrajas.github.io
 
-      - item: 
-        link:
+      - item: open source projects
+        link: https://karthickrajas.github.io/karthickrajas.github.io/projects/
 
 career-profile:
     title: Career Profile
     summary: |
-      Started my career as sql developer, I further pursued my master's education in the field of datascience. Currently working as a data scientist in CSIL Trade and treasury solutions
+      Started my career as sql developer, I further pursued my master's education in the field of datascience. Currently working as a data scientist in Citi Services India Limited.
 
 education:
     - degree: M.Mgt Business Analytics
       university: Indian Institute of Science
       time: 2017-2019
-      CGPA: 8.1
+      #CGPA: 8.1
 
     - degree: BE Civil Engineering
       university: Anna University
       time: 2011-2015
-      CGPA: 9.2 
+      #CGPA: 9.2 
 
 experiences:
     - role: Data Scientist
       time: Jan 2019 - Present
-      company: Citi Services India Limited, Trade and Treasury solutions
+      company: Citi Services India Limited, Bangalore
       details: |
-        
-
-          - Bullet point
-          - Bullet point
+        Currently working as a data-scientist in Retail team and Trade & Treasury Services of citi bank. I have built models, data pipelines for several projects as mentioned below.
+          
+          - Reinforcement Learning solution for personalisation of ads at the customer level
+          - Developing Recommendation Engine for Liquidity Products for cross selling & upselling opportunities
+          - Built and productionalise model for identifying the high potential customer and customer attrition
+          - Won **Citi Ideas Challenges** conducted at bangalore level
+          - Currently involved in building PoC for Graph learning methods for banking use cases.
+          - Built Deep learning models for time series forecasting and rare event prediction
 
     - role: Data Scientist Intern
       time: MAY 2018 -JUN 2018
       company: GE Digital, Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        I worked as a data science intern as part of the GE corporate solutions. I worked on 3 different project in my short tenure at GE digital. My experience with GE digital had a steep learning curve in both technical aspects and understanding business and difficulties of implementing evidence based solutions. 
+          - Build a digital text summarizing tool with “Cognitive Intelligence” embedded in it for assessing compliance documents using RNN/LSTM
+          - Identification of significant drivers of the expenditure on Medical, Indemnity and other cost using quantile regression and recommendations to reduce overall cost
+          - Classification of Thermal, Wind and Solar power plant based on the Collection of Aerial pictures
+          - Suggested an unsupervised technique for clustering to differentiate Barren lands from power plants
+          - Won **GE DnA Hackathon** and was awarded with cash prize of 1000 US$.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: System Engineer (Developer)
+      time: JUN 2015 - JUN 2017
+      company: Tata Consultancy Services, Chennai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        Prior to full time employment with TCS, i was trained in Business Intelligence and Process Management. In my full time employment with TCS, I have worked for a year as a SQL developer building complex mappings, mapplets and workflow to meet the business needs. Post which i worked as a business analyst for media research client.
+        
+          - Expertise in Multi-Market Comparison, Trend analysis, Series and Competitions, Exclusivity and Duplication of Viewership, similar Viewing Behaviour Analysis and Forecasting
+          - **ILP Kudos**, Award for Meritorious People in the training for Business Intelligence, TCS
+          - **Diploma certification in Business Analysis**, International Institute of Business Analysis and TCS
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Below are list of projects that i have worked on. To view the full list of projects visit my professional page [here](https://karthickrajas.github.io/karthickrajas.github.io/professional/)
+    assignments:      
+    
+      - title: Text Summarisation - Exploring methods using deep learning
+        link: "https://github.com/karthickrajas/Text-summarization"
+        tagline: "A digital tool to summarize the uploaded document"
+    
+      - title: Application of Contextual Multi arm bandits in Recommendation systems
+        link: ""
+        tagline: "Building a personalised ad recommendation system at user level using Contextual MABs "
+    
+      - title: Marketing Analytics Case
+        link: "https://github.com/karthickrajas/Marketing-Analytics"
+        tagline: "Customer lifetime value, Churn prevention, Time untill next order and Dimentionality reduction"
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Portfolio Optimization - Risk Management
+        link: "https://github.com/karthickrajas/Finance-Assignment/tree/master/Portfolio%20Risk%20Management"
+        tagline: "Finding the efficient portfolio with the minimum volatility for the most risk-averse investor"
+        
+      - title: Data Envelopment analysis on performance of Indian States
+        link: "https://github.com/karthickrajas/Data-Mining-and-Decision-Models/tree/master/Decision%20Model%20Assignment/DEA"
+        tagline: "Analysis the performance of indian states based on the inputs and outputs"
 
-      - title: DevStudio
+      - title: Linear programming applications
+        link: "https://github.com/karthickrajas/Data-Mining-and-Decision-Models/tree/master/Data%20Mining%20Assignment/Linprog%20Optimization"
+        tagline: "Optimizing the flight capacity based on the demand, running capacity and utilization"
+        
+      - title: Performance of Support Vector Machines and Decision trees
+        link: "https://github.com/karthickrajas/Data-Mining-and-Decision-Models/tree/master/Data%20Mining%20Assignment/Linprog%20Optimization"
+        tagline: "Studying the performance of SVM and Decision trees on Page block dataset from UCI repository"
+        
+      - title: Recommendation System
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Recommendation system for the existing consumers of the movies and songs"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Pricing Derivatives using Heston model
+        link: "https://github.com/karthickrajas/Finance-Assignment/tree/master/Finance%20Assignment%202"
+        tagline: "Pricing European option where the Asset follows mean reverting variance rather than a constant variance of the Black Scholes model."
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Below are the list of publications (including under review) and papers that i have presented over my tenure as a student.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Artificial Intelligence in Banking and Finance Industry"
+        authors: Karthick raja, Prof. K.B.Akilesh
+        conference: Indo German Partnership in Advanced Research and Education, 2019 (springer)
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Exploring Abstractive text summarization"
+        authors: Karthick raja, Prof. K.B.Akilesh
+        conference: Indo German Partnership in Advanced Research and Education, 2018 (springer)
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Data Modelling and Microtargeting of Voters for Election Campaigns
+        authors:  Karthick raja, Rahul sathyajit
+        conference: MS Ramaiah Institute of Management
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R programming
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Keras
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Pytorch and Tensorflow
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Relational Database / Teradata / Informatica
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: UNIX / Bigdata
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Download my resume [here](https://karthickrajas.github.io/karthickrajas.github.io/resume/Karthick_Resume.pdf)
